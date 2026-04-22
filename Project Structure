@@ -1,0 +1,10 @@
+biostat-ml-cardiometabolic-risk/
+│
+├── data/                  
+├── notebooks/
+│   └── cardiometabolic_analysis.ipynb
+│
+├── src/                   
+│
+├── requirements.txt
+├── README.md
